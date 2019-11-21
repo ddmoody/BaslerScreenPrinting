@@ -336,7 +336,7 @@
   <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.3.1/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
   <script src="js/jquery.waypoints.min.js" type="text/javascript"></script>
   <script src="js/scripts.js" type="text/javascript"></script>
-  <script async defer src="https://maps.googleapis.com/maps/api/js?key=AIzaSyDHghKCi2Viu2iWX2IcWV5-ZWeXtmKiRTg&callback=initMap">
+  <script async defer src="https://maps.googleapis.com/maps/api/js?key='API KEY'&callback=initMap">
   </script>
 
 
