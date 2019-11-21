@@ -8,7 +8,7 @@ if ($_SERVER['REQUEST_METHOD'] === 'POST') {
     $email = $_POST['email'];
     if (!empty($email) && !filter_var($email, FILTER_VALIDATE_EMAIL) === false) {
         // MailChimp API credentials
-        $apiKey = '02873ce51659a0e947ec818c3422f15c-us20';
+        $apiKey = 'API KEY';
         $listID = 'f3c5f167a7';
 
         // MailChimp API URL
